@@ -1,0 +1,15 @@
+# Konfigurasi Splash Screen Nativ
+flutter_native_splash:
+  # background_image: "assets/images/background_splash.png" # Opsional: jika ingin gambar background, bukan warna solid
+  color: "#41444B" # Menggunakan AppColors.backgroundDark Anda (0xff41444B)
+  image: assets/images/SplashScreen.png # Path ke gambar logo Anda (yang sudah ada teksnya)
+  # branding: assets/images/branding_text.png # Opsional: Gambar branding kecil di bagian bawah (jika ada)
+
+  # Konfigurasi spesifik platform
+  android: true
+  ios: true
+  web: false # Jika Anda tidak menargetkan web, set ke false
+  android_gravity: center # Posisi gambar di Android
+  ios_content_mode: center # Posisi gambar di iOS
+  fullscreen: true # Memastikan splash screen menutupi seluruh layar
+  # fadein_duration: 1000 # Opsional: durasi fade-in jika gambar berubah setelah native splash

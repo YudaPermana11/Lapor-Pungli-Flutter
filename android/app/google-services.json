@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932352299074",
+    "project_id": "laporpungli-63fbe",
+    "storage_bucket": "laporpungli-63fbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932352299074:android:2e3de04814de6281b51ddb",
+        "android_client_info": {
+          "package_name": "com.example.lapor_pungli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH9q8LqB5HMrQQuDEaFuEyrgSKJ8zao0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
